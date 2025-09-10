@@ -12,4 +12,4 @@ Treatment by doctor
 
 It is a dashboard that helps to manage and analyse the data of hospital
 
-Screenshot of dashboard = ( https://github.com/rohanbaliyan001/Health-care-Dashboard/blob/main/Health%20Care%20project%20screenshot.png )
+Screenshot of dashboard = https://github.com/rohanbaliyan001/Health-care-Dashboard/blob/main/Health%20Care%20project%20screenshot.png
